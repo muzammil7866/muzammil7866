@@ -7,28 +7,27 @@
   </a> 
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I’m an **AI Engineer** passionate about building intelligent systems that make life easier.  
-My expertise spans **Artificial Intelligence, Machine Learning, Deep Learning, and MLOps**, with hands-on experience in designing, training, and deploying scalable AI models.
+I’m an **AI Engineer** passionate about building intelligent systems that make life easier. My expertise spans **Artificial Intelligence, Machine Learning, Deep Learning, and MLOps**, with hands-on experience in designing, training, and deploying scalable AI models.  
 
-I primarily work with **Python** and leverage frameworks such as **Scikit-learn, TensorFlow, PyTorch, and FastAPI** to develop data-driven solutions that bridge theory with practical applications.  
-My experience on **Fiverr** has enabled me to collaborate with clients worldwide on AI-focused projects, strengthening my ability to deliver impactful and production-ready solutions.
+I primarily work with **Python** and frameworks such as **Scikit-learn, TensorFlow, PyTorch, and FastAPI**, developing data-driven solutions that connect theory with real-world impact. My experience on **Fiverr** has allowed me to collaborate globally on AI-focused projects, strengthening my ability to deliver production-ready and results-oriented solutions.  
 
-🎓 I’m currently a **final-year BS Artificial Intelligence student**, pursuing a **Final Year Project (FYP)** in **Computer Vision**, focused on **Suspicious Crowd Behaviour Analysis**.
+🎓 I’m a **final-year BS Artificial Intelligence student**, currently pursuing a **Final Year Project** in **Computer Vision**, focused on **Suspicious Crowd Behaviour Analysis**.  
 
-🎯 My career goal is to become a top **AI Engineer**, applying deep theoretical knowledge to solve complex, real-world problems within major organizations through innovation, optimization, and intelligent automation.
+🎯 My goal is to become a leading **AI Engineer**, applying advanced theoretical knowledge to solve complex, real-world challenges through innovation and intelligent automation.  
 
 ---
 
-- 🔭 I’m currently working on **Computer Vision Based Suspicious Crowd Behavior Detection**
-- 🌱 I’m currently learning **Natural Language Processing, Computer Vision, and Generative AI**
-- 👯 I’m looking to collaborate on **AI Projects to address business needs**
-- 📫 How to reach me **muzammilsohail1718@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muzammilbinsohail/)
-- ⚡ Fun fact: **I have a strong aptitude for problem-solving and enjoy tackling complex challenges through analytical thinking and innovation.**
+- 🔭 Working on: **Computer Vision–Based Suspicious Crowd Behavior Detection**  
+- 🌱 Learning: **NLP, Computer Vision, and Generative AI**  
+- 👯 Open to: **Collaborating on impactful AI projects**  
+- 📫 Contact: **muzammilsohail1718@gmail.com**  
+- 📄 More about me: [LinkedIn](https://www.linkedin.com/in/muzammilbinsohail/)  
+- ⚡ Fun fact: **I love solving complex problems through analytical thinking and creativity.**
 
 ---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
