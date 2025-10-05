@@ -71,5 +71,3 @@ I primarily work with **Python** and frameworks such as **Scikit-learn, TensorFl
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil7866&show_icons=true&locale=en&layout=compact" alt="muzammil7866" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil7866&show_icons=true&locale=en" alt="muzammil7866" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil7866&" alt="muzammil7866" /></p>
