@@ -3,7 +3,6 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muzammil7866" alt="muzammil7866" />
   </a> 
 </p>
 
@@ -67,7 +66,3 @@ I primarily work with **Python** and frameworks such as **Scikit-learn, TensorFl
 </p>
 
 ---
-
-<p><img align="left" src="muzammilbinsohail.vercel.app" alt="muzammil7866" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil7866&show_icons=true&locale=en" alt="muzammil7866" /></p>
