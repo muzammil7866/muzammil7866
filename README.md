@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Header Image: Simplified and URL encoded -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Muzammil%20Bin%20Sohail&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
-
+  <!-- Header: Replaced flaky dynamic image with clean, reliable text -->
+  <h1>Hi 👋, I'm Muzammil Bin Sohail</h1>
+  
   <h3>🚀 AI Engineer | Machine Learning & Computer Vision Specialist</h3>
 
-  <!-- Typing SVG: Switched to demolab mirror and standard hex color -->
+  <!-- Typing SVG: Using reliable demolab mirror -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A31D8&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;MLOps+%26+Deep+Learning;Suspicious+Crowd+Analysis;Transforming+Data+into+Impact" alt="Typing SVG" />
   </a>
@@ -33,9 +33,9 @@ I am a results-driven **AI Engineer** and a final-year **BS AI candidate** who t
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Stats Cards: Using Markdown syntax for better compatibility -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammil7866&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil7866&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <!-- Stats Cards: Using 'eight-theta' mirror which is currently online -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muzammil7866&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muzammil7866&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil7866&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
