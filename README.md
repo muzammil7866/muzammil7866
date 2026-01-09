@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:3a31d8,100:02d9f3&height=220&section=header&text=Muzammil%20Bin%20Sohail&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <!-- Header Image: Simplified and URL encoded -->
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Muzammil%20Bin%20Sohail&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
 
   <h3>🚀 AI Engineer | Machine Learning & Computer Vision Specialist</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A31D8&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;MLOps+%26+Deep+Learning;Suspicious+Crowd+Analysis;Transforming+Data+into+Impact" alt="Typing SVG" />
+  <!-- Typing SVG: Switched to demolab mirror and standard hex color -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A31D8&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;MLOps+%26+Deep+Learning;Suspicious+Crowd+Analysis;Transforming+Data+into+Impact" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <a href="https://linkedin.com/in/muzammilbinsohail" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -29,12 +33,11 @@ I am a results-driven **AI Engineer** and a final-year **BS AI candidate** who t
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammil7866&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil7866&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-<div align="center">
+  <!-- Stats Cards: Using Markdown syntax for better compatibility -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil7866&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil7866&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil7866&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil7866&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 ---
