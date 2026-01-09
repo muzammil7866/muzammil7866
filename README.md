@@ -23,9 +23,9 @@
 
 I am an **award-winning AI Engineer (4x Gold Medalist)** and a results-driven problem solver with **3+ years of technical experience**. I specialize in designing intelligent systems, automating pipelines, and enabling data-powered decision-making. With **200+ projects delivered**, I bring a proven track record of bridging the gap between theoretical AI and production-ready solutions.
 
-- 🏆 **Achievements:** **4x Gold Medalist** | **2x Dean's List** | **Top 5% Global Typist (89 WPM)**
+- 🏆 **Achievements:** **4x Gold Medalist** | **3x Dean's List** | **Top 5% Global Typist (89 WPM)**
 - 🔭 **Current Focus:** Developing my FYP on **"AI-Powered Suspicious Crowd Behavior Detection"**, leveraging Computer Vision to enhance public safety.
-- 🛠️ **Experience:** **7+ years** of combined technical & leadership experience, including successful freelancing on **Fiverr & Upwork**.
+- 🛠️ **Experience:** **3+ years** of combined technical & leadership experience, including successful freelancing on **Fiverr & Upwork**.
 - 🎯 **Mission:** To contribute to forward-thinking organizations by delivering impactful AI solutions and staying at the forefront of innovation.
 
 ---
