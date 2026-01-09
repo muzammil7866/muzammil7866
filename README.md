@@ -21,12 +21,12 @@
 
 ### 📖 About Me
 
-I am a results-driven **AI Engineer** and a final-year **BS AI candidate** who thrives at the intersection of complex algorithms and real-world impact. My journey is fueled by a passion for creating intelligent, scalable systems that bridge the gap between theory and production.
+I am an **award-winning AI Engineer (4x Gold Medalist)** and a results-driven problem solver with **3+ years of technical experience**. I specialize in designing intelligent systems, automating pipelines, and enabling data-powered decision-making. With **200+ projects delivered**, I bring a proven track record of bridging the gap between theoretical AI and production-ready solutions.
 
-- 🔭 **Current Focus:** Developing a Computer Vision-based system for *Suspicious Crowd Behavior Detection*.
-- 🛠️ **Experience:** Collaborated globally on **Fiverr**, delivering results-oriented AI solutions for diverse clients.
-- 🎯 **Aspiration:** To lead innovation in AI by mastering MLOps and Generative AI.
-- ⚡ **Personal Philosophy:** Solving complex problems through a blend of analytical rigor and creative thinking.
+- 🏆 **Achievements:** **4x Gold Medalist** | **2x Dean's List** | **Top 5% Global Typist (89 WPM)**
+- 🔭 **Current Focus:** Developing my FYP on **"AI-Powered Suspicious Crowd Behavior Detection"**, leveraging Computer Vision to enhance public safety.
+- 🛠️ **Experience:** **7+ years** of combined technical & leadership experience, including successful freelancing on **Fiverr & Upwork**.
+- 🎯 **Mission:** To contribute to forward-thinking organizations by delivering impactful AI solutions and staying at the forefront of innovation.
 
 ---
 
@@ -50,6 +50,7 @@ I am a results-driven **AI Engineer** and a final-year **BS AI candidate** who t
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 #### 🌐 Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -65,6 +66,7 @@ I am a results-driven **AI Engineer** and a final-year **BS AI candidate** who t
 #### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
