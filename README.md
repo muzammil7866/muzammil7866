@@ -11,8 +11,9 @@
     <a href="https://muzammilbinsohail.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
     <a href="https://linkedin.com/in/muzammilbinsohail" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:muzammilsohail1718@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.leetcode.com/muzammil7866" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /></a>
     <a href="https://kaggle.com/muzammilbinsohail" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" /></a>
+    <a href="https://www.leetcode.com/muzammil7866" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /></a>
+    <a href="https://medium.com/@muzammilsohail1718" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
   </p>
 </div>
 
@@ -70,9 +71,3 @@ My core strength lies in **Engineering, not just Modeling**. I build the infrast
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-### 🤝 Connect with Me
-<div align="left">
-  <a href="https://linkedin.com/in/muzammilbinsohail" target="blank"><img src="https://img.shields.io/badge/muzammil--bin--sohail-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@muzammilsohail1718" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
-</div>
