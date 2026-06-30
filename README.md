@@ -4,7 +4,7 @@
   <h3>🚀 MLOps & Generative AI Specialist</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A31D8&center=true&vCenter=true&width=435&lines=Founding+AI+Engineer+@+Entracloud;Architecting+Production+AI+Systems;RAG,+LLMs+%26+Agentic+Workflows;Turning+Models+into+Microservices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A31D8&center=true&vCenter=true&width=435&lines=Automation+Developer+@+JobLogic;Architecting+Production+AI+Systems;RAG,+LLMs+%26+Agentic+Workflows;Turning+Models+into+Microservices" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -21,13 +21,13 @@
 
 ### 📖 About Me
 
-I bridge the gap between academic research and production-grade software. Currently the **Founding AI Engineer at Entracloud** and the **Top-Ranked Student (Rank 1/Cohort)** at FAST-NUCES, I specialize in architecting systems that handle real-time inference, not just static notebooks.
+I bridge the gap between academic research and production-grade software. Currently an **Automation Developer at JobLogic**, I graduated as the **Top-Ranked Student (Rank 1/Cohort)** with a **Bachelor's in Artificial Intelligence** from FAST-NUCES, and I specialize in architecting systems that handle real-time inference and intelligent automation at scale.
 
-My core strength lies in **Engineering, not just Modeling**. I build the infrastructure to serve complex algorithms—wrapping models in FastAPI, orchestrating pipelines with Airflow, and deploying on AWS.
+My core strength lies in **Engineering as much as Modeling**. I build the infrastructure to serve complex algorithms, working across the modern AI and automation stack—from APIs and orchestration frameworks to cloud deployment.
 
-- 🏆 **Achievements:** **4x Gold Medalist** | **Ranked 1st in Cohort** | **Reply AI Coding Contest (Top 29% Global)**
-- 🔭 **Current Focus:** Building scalable AI microservices at **Entracloud** and finalizing research on **Suspicious Behavior Detection (3D CNNs & MIL)**.
-- 🛠️ **Experience:** Delivered **200+ AI solutions** for global clients (via **Moonbridge Systems**) and optimized inference latency by **40%** in production environments.
+- 🏆 **Achievements:** **4x Gold Medalist** | **Ranked 1st in Cohort** | **2nd Position, FYP Exhibition** at FAST-NUCES
+- 🔭 **Final Year Project:** Co-developed an **AI-Powered Suspicious Crowd Behavior Detection** system for real-world environments, using a **two-stage cascade pipeline** for anomaly detection that combines **Transfer Learning with FAIR's X3D-S model and XGBoost**.
+- 🛠️ **Experience:** Delivered **200+ AI solutions** spanning global and local clients, personal portfolio projects, and academic research—building hands-on expertise across the full AI development lifecycle.
 - 🎯 **Mission:** To solve complex problems and ship code that scales, moving beyond "making it work" to "making it production-ready."
 
 ---
